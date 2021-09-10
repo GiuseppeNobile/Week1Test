@@ -1,0 +1,3 @@
+9/10/2021 12:00:00 AM	San Francisco	Viaggio 100,5
+9/11/2021 07:30:34 AM	Hotel	Alloggio 67,99
+9/7/2021 12:34:22 PM	Alimentari	Vitto	45,66
